@@ -457,7 +457,8 @@ $RECYCLE.BIN/
 ## Umbraco CMS
 ##
 
-# JSON schema files for appsettings.json
+# JSON schema files for appsettings.json & appsettings.json
+appsettings.json
 appsettings-schema.json
 appsettings-schema.*.json
 
